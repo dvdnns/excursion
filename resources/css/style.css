@@ -19,6 +19,17 @@ h2 {
   color: white;
 }
 
+p{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.footer{
+  text-align: Right;
+  color: gray;
+}
+
  body {
    text-align: center;
    background-color: black
