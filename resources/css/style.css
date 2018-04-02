@@ -2,14 +2,21 @@ h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px
-  color: White;
-  align-content: center;
+  text-align: center;
+  color: white;
 }
 
-.download_link {
+.cta {
   color: Aquamarine;
   font-size: 40px
   centered
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
 }
 
  body {
