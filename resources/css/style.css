@@ -3,7 +3,7 @@ h1 {
   font-weight: normal;
   font-size: 50px
   color: White;
-  align-items: center;
+  align-content: center;
 }
 
 .download_link {
@@ -11,3 +11,8 @@ h1 {
   font-size: 40px
   centered
 }
+
+ body {
+   text-align: center;
+   background-color: black
+ }
